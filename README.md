@@ -72,13 +72,14 @@ Para executar o projeto é necessário possuir o **Python 3** instalado.
 Clone o repositório:
 
 ```bash
-git clone URL-DO-REPOSITORIO
+git clone https://github.com/Vitor99x/Credito-Carbono.git
 ```
 
 Acesse a pasta do projeto:
 
 ```bash
-cd NOME-DO-REPOSITORIO
+cd Credito-Carbono
+python Carbonofinal.py
 ```
 
 Execute o arquivo principal:
